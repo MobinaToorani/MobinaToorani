@@ -1,4 +1,4 @@
-<p align="left"><strong><samp>「</samp></strong></p>
+<p align="left"><strong><samp></samp></strong></p>
   <div align="center">
       <b>
           hi there 👋
