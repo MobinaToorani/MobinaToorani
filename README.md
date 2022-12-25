@@ -1,18 +1,19 @@
-### Hi there 👋
+<p align="left"><strong><samp>「</samp></strong></p>
+  <div align="center">
+      <b>
+          hi there 👋
+          <br>
+          i'm mobina, 
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=third+year+computer+science+student+at+wlu.">
+      <br>  
+  </div>
+  
+<hr/>
 
-<!--
-**MobinaToorani/MobinaToorani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### reach out to me :electric_plug:
+email: [toor6720@mylaurier.ca](mailto:toor6720@mylaurier.ca)  
+linkedin: [in/mobina-tooranisama](https://linkedin.com/in/mobina-tooranisama)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p><img src="https://komarev.com/ghpvc/?username=mobinatoorani&style=flat-square"> <a href="https://github.com/mobinatoorani/"><img src="https://img.shields.io/github/followers/mobinatoorani?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-</p>
+<p align="right"><strong><samp>」</samp></strong></p>
