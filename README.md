@@ -11,9 +11,9 @@
       <br>  
   </div>
   
-<hr/>
+Video Editor and Content Creator at [Laurier Computing Society](https://lauriercs.ca)  
 
-#### reach out to me :) :electric_plug:
+  #### reach out to me :) :electric_plug:
 email: [tooranimobina@gmail.com](mailto:tooranimobina@gmail.com)  
 linkedin: [in/mobina-tooranisama](https://linkedin.com/in/mobina-tooranisama)  
 
