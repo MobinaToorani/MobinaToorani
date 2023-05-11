@@ -1,7 +1,7 @@
 <p align="left"><strong><samp></samp></strong></p>
   <div align="center">
       <b>
-          hHi there 👋
+          Hi there 👋
           <br>
           I'm mobina, in my fourth year of studying Computer Science
       </b>
